@@ -17,7 +17,7 @@ The readme helps to download and install the software environment and getting st
 git clone https://github.com/tensorflow/models.git
 ```
 
-1. Install object detection api following the instructions in https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+4. Install object detection api following the instructions in https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
 All steps are required.
 
