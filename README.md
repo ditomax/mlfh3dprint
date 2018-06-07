@@ -1,7 +1,7 @@
 # mlfh3dprint
 
 This repo contains scripts and ground truth data for detection of 3D print issues using the tensorflow object detection api. 
-The readme helps to download and install the software environment and getting started.
+The readme helps to download and install the software environment and getting started. This project is for educational purposes only. It does not provide production level results.
 
 
 ## Software Setup
