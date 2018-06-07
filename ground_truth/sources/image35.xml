@@ -1,0 +1,36 @@
+<annotation>
+    <folder>sources</folder>
+    <filename>image35.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>3dpripples</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>322</xmin>
+            <ymin>1554</ymin>
+            <xmax>1150</xmax>
+            <ymax>2240</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>3dpripples</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1666</xmin>
+            <ymin>1552</ymin>
+            <xmax>2131</xmax>
+            <ymax>2314</ymax>
+        </bndbox>
+    </object>
+</annotation>
