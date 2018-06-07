@@ -13,7 +13,9 @@ The readme helps to download and install the software environment and getting st
 
 1. Clone the tensorflow model repo into `3dprint/tensorflow`
 
->git clone https://github.com/tensorflow/models.git
+```
+git clone https://github.com/tensorflow/models.git
+```
 
 1. Install object detection api following the instructions in https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
