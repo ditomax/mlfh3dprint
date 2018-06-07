@@ -9,21 +9,21 @@ The readme helps to download and install the software environment and getting st
 This procedure was tested for tensorflow 1.7 on OS X using python 3.4.
 
 
-1. Create a project folder (lets call it 3dprint)
+### Create a project folder (lets call it 3dprint)
 
-1. Install tensorflow by following this guide https://www.tensorflow.org/install/
+### Install tensorflow by following this guide https://www.tensorflow.org/install/
 
-1. Clone the tensorflow model repo into `3dprint/tensorflow`
+### Clone the tensorflow model repo into `3dprint/tensorflow`
 
 ```
 git clone https://github.com/tensorflow/models.git
 ```
 
-4. Install object detection api following the instructions in https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+### Install object detection api following the instructions in https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
 All steps are required.
 
-5. Clone this repo into `3dprint`
+### Clone this repo into `3dprint`
 
 ```
 git clone https://github.com/ditomax/mlfh3dprint
