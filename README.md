@@ -23,7 +23,10 @@ git clone https://github.com/tensorflow/models.git
 
 All steps are required.
 
-1 Clone this repo into `3dprint`
+5. Clone this repo into `3dprint`
 
+```
+git clone https://github.com/ditomax/mlfh3dprint
+```
 
 
