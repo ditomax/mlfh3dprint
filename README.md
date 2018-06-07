@@ -6,6 +6,8 @@ The readme helps to download and install the software environment and getting st
 
 ## Software Setup
 
+This procedure was tested for tensorflow 1.7 on OS X using python 3.4.
+
 
 1. Create a project folder (lets call it 3dprint)
 
